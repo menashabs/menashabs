@@ -21,8 +21,8 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/mgLnIcUJczka341SZV/giphy.gif", width="150"/>
 </div>
 
-<h1>
-  hey there
+<h1 align="center">
+  Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
