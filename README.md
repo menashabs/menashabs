@@ -1,9 +1,9 @@
-### Hi there 👋
-
 <!--
 **menashabs/menashabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+### Hi there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/mgLnIcUJczka341SZV/giphy.gif", width="150"/>
+</div>
+
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+### :woman_technologist: About Me :
+
+:woman_student: I am an undergraduate following the B.Sc. (Honors) Degree in Statistics
+
+:star_struck: Passionate about creating insights from data
+
+:book: Keen in searching and learning new concepts in the field of Statistics 
+
+:computer: Enjoys applying theory to the real world problems
+
+:woman_juggling: Loves to play with data
