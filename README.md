@@ -37,3 +37,7 @@ Here are some ideas to get you started:
 :computer: Enjoys applying theory to the real world problems
 
 :woman_juggling: Loves to play with data
+
+:open_file_folder: Here I have demonstrated some of my university projects and self-learning projects
+
+
