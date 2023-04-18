@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 
 :woman_juggling: Loves to play with data
 
-:open_file_folder: Here I have demonstrated some of my university projects and self-learning projects
+:open_file_folder: Here I have demonstrated some of my university projects
 
 
