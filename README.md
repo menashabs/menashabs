@@ -28,16 +28,16 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me :
 
-:woman_student: I am an undergraduate following the B.Sc. (Honors) Degree in Statistics
+:woman_student: I am an undergraduate following the B.Sc. (Honors) in Statistics Degree
 
 :star_struck: Passionate about creating insights from data
 
-:book: Keen in searching and learning new concepts in the field of Statistics 
+:book: Keen in searching and learning new concepts in the field of Statistics and Data Science
 
 :computer: Enjoys applying theory to the real world problems
 
 :woman_juggling: Loves to play with data
 
-:open_file_folder: Here I have demonstrated some of my university projects
+:open_file_folder: Here I have demonstrated some of my university projects and self learning projects
 
 
