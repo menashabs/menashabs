@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 :book: Keen in searching and learning new concepts in the field of Statistics and Data Science
 
-:computer: Enjoys applying theory to the real world problems
+:computer: Enjoys applying the theory to the real world problems
 
 :woman_juggling: Loves to play with data
 
