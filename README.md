@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me :
 
-:woman_student: I am an undergraduate following the B.Sc. (Honors) in Statistics Degree
+:woman_student: I am a graduate who followed the B.Sc. (Honors) in Statistics Degree
 
 :star_struck: Passionate about creating insights from data
 
