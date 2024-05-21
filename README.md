@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 :open_file_folder: Here I have demonstrated some of my university projects
 
-:computer: Keen to pursue a career with the focus on Statistics and Data Science where outstanding skills and knowledge can be utilized
+:woman_teacher: Keen about learning and teaching 
 
 
 
