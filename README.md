@@ -38,9 +38,8 @@ Here are some ideas to get you started:
 
 :woman_juggling: Loves to play with data
 
-:open_file_folder: Here I have demonstrated some of my university projects
+:open_file_folder: I have demonstrated some of my work here
 
 :woman_teacher: Keen about learning and teaching 
-
 
 
